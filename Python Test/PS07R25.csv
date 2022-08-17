@@ -1,0 +1,25 @@
+"Start Time","Track","Series","Hosted Session Name"
+"2022.07.11 2:01 AM GMT","Dover Motor Speedway","Hosted iRacing","CORE Racing"
+
+
+
+"League Name","League ID","League Season","League Season ID","Points System"
+"CORE Racing","3500","Premier Series Season 7","76349","None"
+
+"Fin Pos","Car ID","Car","Car Class ID","Car Class","Team ID","Cust ID","Name","Start Pos","Car #","Out ID","Out","Interval","Laps Led","Qualify Time","Average Lap Time","Fastest Lap Time","Fast Lap#","Laps Comp","Inc","League Points","Max Fuel Fill%","Weight Penalty (KG)","League Agg Points","AI"
+"1","23","SCCA Spec Racer Ford","0","Hosted All Cars Class","583318","583318","Dane Simpson","5","96","0","Running","-00.000","1","","35.708","27.806","37","60","12","0","100","0","0","0"
+"2","23","SCCA Spec Racer Ford","0","Hosted All Cars Class","124825","124825","Christopher Hamilton","6","64","0","Running","-00.045","0","","35.791","27.742","37","60","4","0","100","0","0","0"
+"3","23","SCCA Spec Racer Ford","0","Hosted All Cars Class","212706","212706","Aaron Smith II","7","70","0","Running","-00.092","9","","35.791","27.743","37","60","9","0","100","0","0","0"
+"4","23","SCCA Spec Racer Ford","0","Hosted All Cars Class","194401","194401","Kevin Foster","15","8","0","Running","-06.207","3","","34.921","27.688","51","60","6","0","100","0","0","0"
+"5","23","SCCA Spec Racer Ford","0","Hosted All Cars Class","300902","300902","Eric Andrews","9","9","0","Running","-06.385","0","","32.696","27.814","60","60","10","0","100","0","0","0"
+"6","23","SCCA Spec Racer Ford","0","Hosted All Cars Class","451947","451947","Patrick Cooney3","10","1","0","Running","-06.536","0","","35.949","27.798","12","60","12","0","100","0","0","0"
+"7","23","SCCA Spec Racer Ford","0","Hosted All Cars Class","325302","325302","Thaddeus Marshall","4","87","0","Running","-11.544","9","","36.476","27.917","2","60","14","0","100","0","0","0"
+"8","23","SCCA Spec Racer Ford","0","Hosted All Cars Class","511352","511352","Tim Thompson3","8","05","0","Running","-21.797","0","","36.170","27.805","21","60","4","0","100","0","0","0"
+"9","23","SCCA Spec Racer Ford","0","Hosted All Cars Class","622319","622319","Abhi Visuvasam","13","08","0","Running","-1 L","0","","36.446","27.773","36","59","10","0","100","0","0","0"
+"10","23","SCCA Spec Racer Ford","0","Hosted All Cars Class","285284","285284","Paul Butler6","1","77","0","Running","-1 L","0","","36.566","28.017","4","59","16","0","100","0","0","0"
+"11","23","SCCA Spec Racer Ford","0","Hosted All Cars Class","276475","276475","Carl Handwerk","3","18","0","Running","-1 L","16","","36.998","27.853","3","59","20","0","100","0","0","0"
+"12","23","SCCA Spec Racer Ford","0","Hosted All Cars Class","485614","485614","Dylan McDonald3","16","38","0","Running","-1 L","4","","34.893","27.701","3","59","25","0","100","0","0","0"
+"13","23","SCCA Spec Racer Ford","0","Hosted All Cars Class","540375","540375","Jimmy Covert","11","14","0","Running","-2 L","3","","37.433","27.775","12","58","12","0","100","0","0","0"
+"14","23","SCCA Spec Racer Ford","0","Hosted All Cars Class","444719","444719","Brandon Mettler","2","15","0","Running","-2 L","15","","37.930","27.918","2","58","18","0","100","0","0","0"
+"15","23","SCCA Spec Racer Ford","0","Hosted All Cars Class","560401","560401","Mark Thomas12","14","50","32","Disconnected","-47 L","0","","31.311","27.863","2","13","8","0","100","0","0","0"
+"16","23","SCCA Spec Racer Ford","0","Hosted All Cars Class","304332","304332","Paul Owens","12","54","32","Disconnected","-55 L","0","","30.577","27.618","4","5","12","0","100","0","0","0"
